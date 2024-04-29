@@ -1,0 +1,66 @@
+    1  git config
+    2  git config --global user.name "Mira Rufeger"
+    3  git config --global user.email mira.rufeger@gmail.com
+    4  200~git config --global init.defaultBranch mai
+    5  git config --global init.defaultBranch main
+    6  git config --list
+    7  --help
+    8  git config --help
+    9  git config --get core.editor
+   10  git var GIT_EDITOR
+   11  vim recipes.txt
+   12  git config --global core.editor "Visual Studio Code"
+   13  git var GIT_EDITOR
+   14  Visual Studio Code recipes.txt
+   15  vsc recipes.txt
+   16  visualStudioCode recipes.txt
+   17  VisualStudioCode recipes.txt
+   18  VSC recipes.txt
+   19  recipes.txt
+   20  pwd
+   21  cd "/Users/mirar/Documents/UHH/2. Semester/WAHLBEREICH_Introduction to GIT/Recipes/Recipes_git_repository"
+   22  pwd
+   23  cd '/Users/mirar/Documents/UHH/2. Semester/WAHLBEREICH_Introduction to GIT/Recipes/Recipes_git_repository'
+   24  pwd
+   25  cd /Users/mirar/Documents/UHH/'2. Semester'/'WAHLBEREICH_Introduction to GIT'/Recipes/Recipes_git_repository
+   26  pwd
+   27  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes_git_repository'
+   28  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes_git_repository'
+   29  pwd
+   30  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes'
+   31  pwd
+   32  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository'
+   33  pwd
+   34  git init
+   35  git status
+   36  touch recipesMR.txt
+   37  git status
+   38  git add recipesMR.txt
+   39  git status
+   40  git commit -m "created RecipesMR file"
+   41  git log
+   42  git diff#
+   43  git diff
+   44  git diff
+   45  git diff
+   46  gi´t log
+   47  git log
+   48  git diff --staged
+   49  git diff <RwcipedMR.txt>
+   50  git log
+   51  pwd
+   52  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   53  pwd
+   54  pwd
+   55  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   56  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   57  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   58  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   59  pwd
+   60  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   61  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository
+   62  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository'
+   63  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository'
+   64  cd '/c/Users/mirar/Documents/UHH/2.Semester/WAHLBEREICH_Introduction_to_GIT/Recipes/Recipes_git_repository'
+   65  pwd
+   66  history > history.txt
