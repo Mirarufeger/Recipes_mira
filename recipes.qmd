@@ -1,6 +1,6 @@
 ---
 title: "Very Crispy Potatoes"
-author: "Mira"
+author: "Mira Rufeger"
 format: html
 editor: visual
 ---
